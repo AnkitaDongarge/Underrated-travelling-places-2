@@ -216,9 +216,21 @@
         "country":"Georgia",
         "photo":"https://en.wikipedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg",
         "Language":["Bengali"],
-        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
-        "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
+        "famousFor":"white sand beach,water sports",
+        "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri dist",
         "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
     },
+{
+     "id":19,
+        "place":" Tarkarli ",
+        "country":"India",
+        "photo":"https://imgs.search.brave.com/a94yylrLEEVAIvstCpKhSGnBlwOXFb5YZa1osMbkh2k/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/aEswbGMxQWktZlR0/Xzk2YnNKYmdBSGFI/YSZwaWQ9QXBp",
+        "Language":["Marathi"],
+        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture ",
+        "fascinatingFact":"The clear blue water and the stunning Suru or Casuarina trees create an unforgettable scene. It is one of India’s most tranquil beaches.",
+        "howToReach":"https://timesofindia.indiatimes.com/travel/destinations/how-to-reach-tarkarli/articleshow/49351440.cms"
+}
+    
+
 
 ]
